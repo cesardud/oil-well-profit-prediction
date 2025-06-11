@@ -56,8 +56,13 @@ Se utilizaron tres archivos `.csv` (`geo_data_0.csv`, `geo_data_1.csv`, `geo_dat
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/cesardud/oil-well-profit-prediction.git
+2. Navega al proyecto:
+   ```bash
    cd oil-well-profit-prediction
+4. Instala las librerías requeridas:
+    ```bash
    pip install -r requirements.txt
+6. Abre el notebook:
+    ```bash
    jupyter notebook notebook.ipynb
-
 
