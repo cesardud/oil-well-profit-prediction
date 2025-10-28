@@ -12,7 +12,7 @@ El proyecto debe asegurar la viabilidad de la inversión y la selección de la r
 * **Volumen de Inversión:** El presupuesto para el desarrollo de **200 pozos** es de **$100 millones de USD**.
 * **Punto de Equilibrio:** Para evitar pérdidas, la producción media requerida por pozo es de **$111.1$ mil barriles**.
 * **Proceso de Exploración:** La decisión de inversión se basa en un estudio de **$500$ puntos** de exploración, de los cuales se seleccionan los **$200$ mejores** para el cálculo del beneficio (Simulación *Bootstrapping*).
-* **Criterio de Riesgo:** Después de la evaluación de riesgo, solo se deben mantener las regiones con un **riesgo de pérdidas inferior al $2.5\%$**.
+* **Criterio de Riesgo:** Después de la evaluación de riesgo, solo se deben mantener las regiones con un **riesgo de pérdidas inferior al $2.5%.
 * **Decisión Final:** De las regiones que cumplan el criterio de riesgo, se seleccionará aquella con el **beneficio promedio más alto**.
 
 ---
